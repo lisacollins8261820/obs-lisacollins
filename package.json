@@ -1,0 +1,29 @@
+{
+  "name": "obs-lisacollins",
+  "version": "1.0.0",
+  "description": "Obs-lisacollins is a Node.js module that provides functions for various cryptographic operations such as generating random strings, hashing passwords, comparing passwords, and generating RSA key pairs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lisacollins8261820/obs-lisacollins"
+  },
+  "dependencies": {
+	  "jakea": "1.0.0",
+"dorothymoore": "1.0.0",
+"carolscott-code": "1.0.0",
+"susanmartin-config": "1.0.0",
+"zheminivan": "1.0.0",
+"JohnYoung": "1.0.0",
+"mod-petrivany": "1.0.0",
+    "bcrypt": "^5.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisacollins8261820/obs-lisacollins/issues"
+  },
+  "homepage": "https://github.com/lisacollins8261820/obs-lisacollins#readme"
+}
